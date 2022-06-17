@@ -45,13 +45,22 @@ pip install futures
 pip2 install mechanize bs4 lolcat 
 
 
-Run for this script 
+
+
+
+
+Run for this TOOLS 
+
+
 
 git clone https://github.com/FATHER-GG/FATHER-IS-BRAND 
 
 cd FATHER-IS-BRAND 
 
-python father-brand.py
+python father-brand.py 
+
+
+
 
 
 Thanks for using my tools ☺️
